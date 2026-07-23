@@ -1,5 +1,14 @@
+<!-- Custom Banner (Replace the src link with your own banner image) -->
+<p align="center">
+  <img src="https://via.placeholder.com/1000x250/0e75b6/ffffff?text=Welcome+to+My+GitHub+Profile" alt="Sahil Chavan Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sahil Chavan</h1>
 <h3 align="center">A passionate Cross-Device App developer from India</h3>
+
+<p align="center">
+  <em>I specialize in building seamless, cross-platform experiences and robust backends. Whether I'm designing clean UIs with Flutter, crunching data with Python, or managing databases, I love turning complex problems into elegant solutions. Always learning, always building.</em>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahilcoder636&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -11,25 +20,47 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Cluster](https://github.com/sahilcoder636/cluster-app)
-- 🌱 I’m currently learning **Flutter**
-- 👯 I’m looking to collaborate on [Vigilance Core](https://github.com/sahilcoder636/Vigilance-Core)
-- 🤝 I’m looking for help with [Eco Learn](https://github.com/sahilcoder636/Eco-Learn)
+---
+
+<h3 align="left">🚀 Featured Projects</h3>
+<p align="center">
+  <a href="https://github.com/sahilcoder636/cluster-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilcoder636&repo=cluster-app&theme=radical" alt="Cluster App" width="48%" />
+  </a>
+  <a href="https://github.com/sahilcoder636/Vigilance-Core">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilcoder636&repo=Vigilance-Core&theme=radical" alt="Vigilance Core" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/sahilcoder636/Eco-Learn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilcoder636&repo=Eco-Learn&theme=radical" alt="Eco Learn" width="48%" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">⚡ Quick Stats & Activity</h3>
+- 🌱 I’m currently learning **Flutter** & diving deeper into App Architecture.
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/sahilcoder636?tab=repositories)
 - 💬 Ask me about **Java, Python, Dart**
 - 📫 How to reach me: **sahilchavan497@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/sahil-chavan-2270762a5" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/sahilchavan636" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilcoder636&show_icons=true&locale=en&theme=radical" alt="Sahil's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilcoder636&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sahil's Top Languages" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilcoder636&theme=radical" alt="Sahil's Streak Stats" />
+</div>
+
+---
+
+<h3 align="left">🛠️ Languages and Tools</h3>
 
 <h4 align="left">📱 App Development</h4>
 <p align="left"> 
@@ -72,15 +103,14 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilcoder636&show_icons=true&locale=en&theme=radical" alt="Sahil's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilcoder636&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sahil's Top Languages" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilcoder636&theme=radical" alt="Sahil's Streak Stats" />
-</div>
+<h3 align="left">🤝 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/sahil-chavan-2270762a5" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/sahilchavan636" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
