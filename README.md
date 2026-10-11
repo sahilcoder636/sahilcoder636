@@ -30,17 +30,37 @@ I build seamless, cross-platform experiences and robust backends. Whether I'm de
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/sahilcoder636/cluster-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilcoder636&repo=cluster-app&theme=radical&hide_border=true" alt="Cluster App" width="48%" />
-  </a>
-  <a href="https://github.com/sahilcoder636/Vigilance-Core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilcoder636&repo=Vigilance-Core&theme=radical&hide_border=true" alt="Vigilance Core" width="48%" />
-  </a>
-  <a href="https://github.com/sahilcoder636/Eco-Learn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilcoder636&repo=Eco-Learn&theme=radical&hide_border=true" alt="Eco Learn" width="48%" />
-  </a>
-</div>
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📦 [cluster-app](https://github.com/sahilcoder636/cluster-app)
+Cross-platform app project.
+
+<img src="https://img.shields.io/github/languages/top/sahilcoder636/cluster-app?style=flat-square&color=7b2ff7" alt="language"/> <img src="https://img.shields.io/github/stars/sahilcoder636/cluster-app?style=flat-square&color=0e75b6" alt="stars"/><br/>
+<img src="https://img.shields.io/github/last-commit/sahilcoder636/cluster-app?style=flat-square&color=0e75b6" alt="last commit"/>
+
+</td>
+<td width="33%" valign="top">
+
+### 📦 [Vigilance-Core](https://github.com/sahilcoder636/Vigilance-Core)
+Realtime clinical transcription and risk-monitoring platform powered by Faster-Whisper and clinical NLP.
+
+<img src="https://img.shields.io/github/languages/top/sahilcoder636/Vigilance-Core?style=flat-square&color=7b2ff7" alt="language"/> <img src="https://img.shields.io/github/stars/sahilcoder636/Vigilance-Core?style=flat-square&color=0e75b6" alt="stars"/><br/>
+<img src="https://img.shields.io/github/last-commit/sahilcoder636/Vigilance-Core?style=flat-square&color=0e75b6" alt="last commit"/>
+
+</td>
+<td width="33%" valign="top">
+
+### 📦 [Eco-Learn](https://github.com/sahilcoder636/Eco-Learn)
+Learning project, built in the open.
+
+<img src="https://img.shields.io/github/languages/top/sahilcoder636/Eco-Learn?style=flat-square&color=7b2ff7" alt="language"/> <img src="https://img.shields.io/github/stars/sahilcoder636/Eco-Learn?style=flat-square&color=0e75b6" alt="stars"/><br/>
+<img src="https://img.shields.io/github/last-commit/sahilcoder636/Eco-Learn?style=flat-square&color=0e75b6" alt="last commit"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -87,23 +107,14 @@ I build seamless, cross-platform experiences and robust backends. Whether I'm de
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub at a Glance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilcoder636&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilcoder636&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="48%" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=sahilcoder636&theme=radical&hide_border=true" alt="Streak stats" />
-</div>
 
-<br/>
+<a href="https://github.com/sahilcoder636"><img src="https://img.shields.io/github/followers/sahilcoder636?label=Followers&style=for-the-badge&color=7b2ff7&logo=github" alt="Followers" /></a>
+<a href="https://github.com/sahilcoder636?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-5-0e75b6?style=for-the-badge&logo=github" alt="Repos" /></a>
+<a href="https://github.com/sahilcoder636"><img src="https://img.shields.io/github/stars/sahilcoder636/Vigilance-Core?label=Vigilance-Core%20Stars&style=for-the-badge&color=7b2ff7" alt="Stars" /></a>
 
-## 🏆 Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sahilcoder636&theme=radical&no-frame=true&no-bg=true&margin-w=8" alt="Sahil's trophies" />
-  </a>
 </div>
 
 <br/>
