@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sahilcoder636&label=Profile%20views&color=7b2ff7&style=for-the-badge" alt="Profile views" />
+<img src="https://hits.sh/github.com/sahilcoder636.svg?style=for-the-badge&label=Profile%20views&color=7b2ff7&labelColor=0e75b6" alt="Profile views" />
 
 </div>
 
