@@ -30,17 +30,24 @@ I build seamless, cross-platform experiences and robust backends. Whether I'm de
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/sahilcoder636/cluster-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilcoder636&repo=cluster-app&theme=radical&hide_border=true" alt="Cluster App" width="48%" />
-  </a>
-  <a href="https://github.com/sahilcoder636/Vigilance-Core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilcoder636&repo=Vigilance-Core&theme=radical&hide_border=true" alt="Vigilance Core" width="48%" />
-  </a>
-  <a href="https://github.com/sahilcoder636/Eco-Learn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilcoder636&repo=Eco-Learn&theme=radical&hide_border=true" alt="Eco Learn" width="48%" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📱 <a href="https://github.com/sahilcoder636/cluster-app">Cluster App</a></h3>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>🩺 <a href="https://github.com/sahilcoder636/Vigilance-Core">Vigilance Core</a></h3>
+      Realtime clinical transcription and risk-monitoring platform powered by Faster-Whisper and clinical NLP.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌱 <a href="https://github.com/sahilcoder636/Eco-Learn">Eco Learn</a></h3>
+      <img src="https://img.shields.io/badge/Open%20repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -94,16 +101,6 @@ I build seamless, cross-platform experiences and robust backends. Whether I'm de
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilcoder636&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="48%" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=sahilcoder636&theme=radical&hide_border=true" alt="Streak stats" />
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sahilcoder636&theme=radical&no-frame=true&no-bg=true&margin-w=8" alt="Sahil's trophies" />
-  </a>
 </div>
 
 <br/>
